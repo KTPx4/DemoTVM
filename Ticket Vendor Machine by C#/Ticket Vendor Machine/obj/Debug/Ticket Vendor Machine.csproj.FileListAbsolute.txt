@@ -1,0 +1,24 @@
+D:\Px4_TDTU\TDTU\2HK2\CNPM\LT\QT1\Code Demo System\Ticket Vendor Machine\Ticket Vendor Machine\bin\Debug\Ticket Vendor Machine.exe.config
+D:\Px4_TDTU\TDTU\2HK2\CNPM\LT\QT1\Code Demo System\Ticket Vendor Machine\Ticket Vendor Machine\bin\Debug\Ticket Vendor Machine.exe
+D:\Px4_TDTU\TDTU\2HK2\CNPM\LT\QT1\Code Demo System\Ticket Vendor Machine\Ticket Vendor Machine\bin\Debug\Ticket Vendor Machine.pdb
+D:\Px4_TDTU\TDTU\2HK2\CNPM\LT\QT1\Code Demo System\Ticket Vendor Machine\Ticket Vendor Machine\obj\Debug\Ticket Vendor Machine.csproj.AssemblyReference.cache
+D:\Px4_TDTU\TDTU\2HK2\CNPM\LT\QT1\Code Demo System\Ticket Vendor Machine\Ticket Vendor Machine\obj\Debug\Ticket Vendor Machine.csproj.SuggestedBindingRedirects.cache
+D:\Px4_TDTU\TDTU\2HK2\CNPM\LT\QT1\Code Demo System\Ticket Vendor Machine\Ticket Vendor Machine\obj\Debug\Ticket_Vendor_Machine.TicketM.resources
+D:\Px4_TDTU\TDTU\2HK2\CNPM\LT\QT1\Code Demo System\Ticket Vendor Machine\Ticket Vendor Machine\obj\Debug\Ticket_Vendor_Machine.Properties.Resources.resources
+D:\Px4_TDTU\TDTU\2HK2\CNPM\LT\QT1\Code Demo System\Ticket Vendor Machine\Ticket Vendor Machine\obj\Debug\Ticket Vendor Machine.csproj.GenerateResource.cache
+D:\Px4_TDTU\TDTU\2HK2\CNPM\LT\QT1\Code Demo System\Ticket Vendor Machine\Ticket Vendor Machine\obj\Debug\Ticket Vendor Machine.csproj.CoreCompileInputs.cache
+D:\Px4_TDTU\TDTU\2HK2\CNPM\LT\QT1\Code Demo System\Ticket Vendor Machine\Ticket Vendor Machine\obj\Debug\Ticket Vendor Machine.exe
+D:\Px4_TDTU\TDTU\2HK2\CNPM\LT\QT1\Code Demo System\Ticket Vendor Machine\Ticket Vendor Machine\obj\Debug\Ticket Vendor Machine.pdb
+D:\Px4_TDTU\TDTU\2HK2\CNPM\LT\QT1\Code Demo System\Ticket Vendor Machine\Ticket Vendor Machine\obj\Debug\Ticket_Vendor_Machine.Credit.resources
+D:\Px4_TDTU\TDTU\2HK2\CNPM\LT\QT1\Github\demoSystem-main\Ticket Vendor Machine by C#\Ticket Vendor Machine\bin\Debug\Ticket Vendor Machine.exe.config
+D:\Px4_TDTU\TDTU\2HK2\CNPM\LT\QT1\Github\demoSystem-main\Ticket Vendor Machine by C#\Ticket Vendor Machine\bin\Debug\Ticket Vendor Machine.exe
+D:\Px4_TDTU\TDTU\2HK2\CNPM\LT\QT1\Github\demoSystem-main\Ticket Vendor Machine by C#\Ticket Vendor Machine\bin\Debug\Ticket Vendor Machine.pdb
+D:\Px4_TDTU\TDTU\2HK2\CNPM\LT\QT1\Github\demoSystem-main\Ticket Vendor Machine by C#\Ticket Vendor Machine\obj\Debug\Ticket Vendor Machine.csproj.AssemblyReference.cache
+D:\Px4_TDTU\TDTU\2HK2\CNPM\LT\QT1\Github\demoSystem-main\Ticket Vendor Machine by C#\Ticket Vendor Machine\obj\Debug\Ticket Vendor Machine.csproj.SuggestedBindingRedirects.cache
+D:\Px4_TDTU\TDTU\2HK2\CNPM\LT\QT1\Github\demoSystem-main\Ticket Vendor Machine by C#\Ticket Vendor Machine\obj\Debug\Ticket_Vendor_Machine.Credit.resources
+D:\Px4_TDTU\TDTU\2HK2\CNPM\LT\QT1\Github\demoSystem-main\Ticket Vendor Machine by C#\Ticket Vendor Machine\obj\Debug\Ticket_Vendor_Machine.Properties.Resources.resources
+D:\Px4_TDTU\TDTU\2HK2\CNPM\LT\QT1\Github\demoSystem-main\Ticket Vendor Machine by C#\Ticket Vendor Machine\obj\Debug\Ticket Vendor Machine.csproj.GenerateResource.cache
+D:\Px4_TDTU\TDTU\2HK2\CNPM\LT\QT1\Github\demoSystem-main\Ticket Vendor Machine by C#\Ticket Vendor Machine\obj\Debug\Ticket Vendor Machine.csproj.CoreCompileInputs.cache
+D:\Px4_TDTU\TDTU\2HK2\CNPM\LT\QT1\Github\demoSystem-main\Ticket Vendor Machine by C#\Ticket Vendor Machine\obj\Debug\Ticket Vendor Machine.exe
+D:\Px4_TDTU\TDTU\2HK2\CNPM\LT\QT1\Github\demoSystem-main\Ticket Vendor Machine by C#\Ticket Vendor Machine\obj\Debug\Ticket Vendor Machine.pdb
+D:\Px4_TDTU\TDTU\2HK2\CNPM\LT\QT1\Github\demoSystem-main\Ticket Vendor Machine by C#\Ticket Vendor Machine\obj\Debug\Ticket_Vendor_Machine.TicketM.resources
